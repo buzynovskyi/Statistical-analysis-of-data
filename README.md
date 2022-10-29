@@ -1,4 +1,4 @@
-# mobile operator
+# Mobile operator
 Project Description
 
 I'm an analyst at Megaline, a federal cellular operator. Clients are offered two tariff plans: Smart and Ultra. In order to adjust the advertising budget, the commercial department wants to understand which plan brings in the most money.
